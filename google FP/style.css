@@ -1,0 +1,53 @@
+/* .letterg {
+  color: blue;
+}
+.firstO,
+.letterE {
+  color: red;
+}
+.secondO {
+  color: yellow;
+}
+.letterL {
+  color: green;
+}
+
+.div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input {
+  border-radius: 10px;
+  border-color: red;
+} */
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  background-color: rgb(10, 10, 70);
+  text-align: center;
+  width: 40%;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 60px;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+button {
+  background-color: rgb(55, 122, 55);
+  color: white;
+  border: 0;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+}
